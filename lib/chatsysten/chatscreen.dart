@@ -25,7 +25,8 @@ class _ChatScreenState extends State<ChatScreen> {
   void initState() {
 
     chatGPT = OpenAI.instance.build(
-        token: "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",
+        token: "ChatGpt_Api_key",
+        // Link for api - https://beta.openai.com/account/api-keys
         baseOption: HttpSetup(receiveTimeout: 60000)
     );
     // super.initState();
@@ -38,7 +39,7 @@ class _ChatScreenState extends State<ChatScreen> {
     super.dispose();
   }
 
-  // Link for api - https://beta.openai.com/account/api-keys
+
 
   void _sendMessage() async {
     if (_controller.text.isEmpty) return;
