@@ -1,16 +1,7 @@
 # expenses_flutter
 
-A new Flutter project.
+![0069559f-a738-497b-b890-be3c0ba1a9fc](https://github.com/Anuj-S62/expenses_flutter/assets/96018337/d35ced55-711c-4b6f-8ebf-60fcf501fda5)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![ee3f4823-ed63-4000-93c8-4c25e8314adb](https://github.com/Anuj-S62/expenses_flutter/assets/96018337/ee309222-b6d5-4312-8f74-dbc650a6b209)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
