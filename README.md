@@ -6,6 +6,8 @@ Tech used:
 
 Flutter, Dart, Firestore, Firebase authentication, Open AI API
 
+App screenshots:
+
 <img src="https://github.com/Anuj-S62/expenses_flutter/assets/96018337/23a4e018-7136-42ca-8fc5-b059158db4ae" width="200">
 <img src="https://github.com/Anuj-S62/expenses_flutter/assets/96018337/d95dc451-340c-47c7-8e1f-d418a6ecb76d" width="200">
 <img src="https://github.com/Anuj-S62/expenses_flutter/assets/96018337/b5c921e0-e191-4b7b-9bfe-24a1ba65bf4f" width="200">
